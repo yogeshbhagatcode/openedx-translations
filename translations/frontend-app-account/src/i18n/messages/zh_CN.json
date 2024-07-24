@@ -8,7 +8,7 @@
   "account.settings.banner.beta.language": "您已将语言设置为{beta_language}，目前尚未完全翻译。 您可以加入Transifex社区，并为使用{beta_language}的学员添加英语翻译，从而帮助我们充分翻译这门语言。",
   "account.settings.banner.beta.language.action.switch.back": "切换回{previous_language}",
   "account.settings.banner.beta.language.action.help.translate": "帮助翻译（测试版） {beta_language}",
-  "account.settings.section.account.information": "账号信息",
+  "account.settings.section.account.information": "--Account Information--",
   "account.settings.section.account.information.description": "这些设置包括您账号的基本信息。",
   "account.settings.section.profile.information": "用户资料信息",
   "account.settings.section.demographics.information": "可选信息",
