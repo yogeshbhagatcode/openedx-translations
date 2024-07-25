@@ -23563,4 +23563,4 @@ msgstr "要确认已开始监控，请确保您的网络摄像头源和蓝色的
 
 #: edx_proctoring_proctortrack/backends/proctortrack_rest.py
 msgid "Click on the \"Start Proctored Exam\" button below to continue."
-msgstr "点击下方的“开始监考考试”按钮继续"
+msgstr "--Click on the \"Start Proctored Exam\" button below to continue.--"
