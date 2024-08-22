@@ -4,7 +4,7 @@
   "license": "AGPL-3.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/openedx/openedx-atlas.git"
+    "url": "git+https://github.com/yogeshbhagatcode/openedx-translations.git"
   },
   "publishConfig": {
     "access": "public"
